@@ -13,6 +13,6 @@ releases:
     files:
       -
         name: check_samsung_printer.rb
-        url: "file:///check_samsung_printer.py"
+        url: "file:///check_samsung_printer.rb"
         description: "First release"
         checksum: baabd255a4b773664e8dfbd6e09598df
